@@ -5,8 +5,8 @@ kramdown:
 permalink: /posts/:categories/:title # 博文目录
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 
-title: wu-kan
-url: http://wu-kan.github.io
+title: 张陈陈
+url: http://zcc815.github.io
 author: WuK
 
 head: # 删改前确定知道自己在做什么
@@ -79,25 +79,25 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: stylesheet
   - key: href
-    value: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io/public/css/poole.css # 用cdn加速会出问题，暂时不知道为什么
+    value: //cdn.jsdelivr.net/gh/zcc815/zcc815.github.io/public/css/poole.css # 用cdn加速会出问题，暂时不知道为什么
 - tag: link
   var:
   - key: rel
     value: stylesheet
   - key: href
-    value: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io/public/css/syntax.css
+    value: //cdn.jsdelivr.net/gh/zcc815/zcc815.github.io/public/css/syntax.css
 - tag: link
   var:
   - key: rel
     value: stylesheet
   - key: href
-    value: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io/public/css/lanyon.css
+    value: //cdn.jsdelivr.net/gh/zcc815/zcc815.github.io/public/css/lanyon.css
 - tag: link
   var:
   - key: rel
     value: stylesheet
   - key: href
-    value: /public/css/wu-kan.css
+    value: /public/css/zcc815.css
 - tag: link
   var:
   - key: rel
@@ -172,30 +172,35 @@ sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
     img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br>SYSU17级在读<br>计科超算方向<br>永远喜欢水野爱<br>田宫例四驱车<br>ACMer # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+    info: <br>自动化14级<br>控制原理方向<br>永远喜欢水野爱<br>算法<br>Hadoop # 头像背后的信息
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/#/playlist?id=2405862860&userid=1587687265"></iframe>'
   social:
   - title: rss
     href: /atom.xml
     class: 'fas fa-rss fa-fw'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
-    class: 'fas fa-envelope fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile fa-fw'
-  - title: 942759535 # qq
+  - title: zcc815@126.com # email
+    href: mailto:zcc815@126.com
+	class: 'fas fa-envelope fa-fw'
+	
+	#暂未发现此处为什么功能
+#  	- title: WuK # codeforces
+#    href: //codeforces.com/profile/WuK
+#     class: 'fas fa-chart-bar fw'
+
+	#暂未发现此处为什么功能
+#	  - title: WuK # vjudge
+#		href: //vjudge.net/user/WuK
+#		class: 'fas fa-smile fa-fw'  
+
+  - title: 310347169 # qq
     class: 'fab fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: 「晨」 # weixin
     class: 'fab fa-weixin fa-fw'
   - title: github
-    href: //github.com/wu-kan
+    href: //github.com/zcc815
     class: 'fab fa-github fa-fw'
   - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
+    href: //www.zhihu.com/people/zhang-chen-chen-92-59/activities
     class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
@@ -238,7 +243,7 @@ busuanzi:
 run_time:
   enable: true
   src: /public/js/run_time.js
-  start_time: '10/04/2017 11:03:56' # 这是我第一篇CSDN博客的时间
+  start_time: '09/02/2019 19:35:36' # 这是我第一篇CSDN博客的时间
   alert: <i class="fas fa-cog fa-spin fa-fw"></i>
   day: 天
   hour: 时
@@ -247,7 +252,7 @@ run_time:
 
 copyright:
   enable: true
-  text: <a href="//github.com/wu-kan/wu-kan.github.io">View on GitHub</a>
+  text: <a href="//github.com/zcc815/zcc815.github.io.git">View on GitHub</a>
 
 post:
   meta:
@@ -272,9 +277,9 @@ post:
     text: 如果我的博客帮助到你，可以请我喝一杯咖啡~
     img: # 万一真的有人打赏呢~
     - id: wechat
-      src: /public/image/wechatpay.jpg
+      src: /public/image/WeChatPay.png
     - id: alipay
-      src: /public/image/alipay.jpg
+      src: /public/image/ALiPay.png
 
 valine:
   enable: true
