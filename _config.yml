@@ -180,18 +180,15 @@ sidebar:
     class: 'fas fa-rss fa-fw'
   - title: zcc815@126.com # email
     href: mailto:zcc815@126.com
-	class: 'fas fa-envelope fa-fw'
-	
-	#暂未发现此处为什么功能
+    class: 'fas fa-envelope fa-fw'
+#暂未发现此处为什么功能
 #  	- title: WuK # codeforces
 #    href: //codeforces.com/profile/WuK
 #     class: 'fas fa-chart-bar fw'
-
-	#暂未发现此处为什么功能
+#暂未发现此处为什么功能
 #	  - title: WuK # vjudge
 #		href: //vjudge.net/user/WuK
 #		class: 'fas fa-smile fa-fw'  
-
   - title: 310347169 # qq
     class: 'fab fa-qq fa-fw'
   - title: 「晨」 # weixin
