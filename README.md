@@ -18,7 +18,8 @@ permalink: /about
 
 
 ## 致谢
-博客基于[MIT License](https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE),感谢。
+
+博客基于[wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE),感谢。
 
 托管于[Github Pages](https://pages.github.com/)，感谢。
 
@@ -84,6 +85,6 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 
 ## 历程
 ## 2019-09-07 v1.0.0
-- 第一个博客出生了感谢wu-kan,本人的起点来源于他,十分感谢!!!!!
+- 第一个博客出生了再次感谢wu-kan!!!!!
 
 - live2d
