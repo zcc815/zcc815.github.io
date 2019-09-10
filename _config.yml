@@ -276,10 +276,8 @@ post:
     - id: wechat
       src: /public/image/WeChatPay.png
     - id: alipay
-      src: /public/image/ALiPay.png
-	  
-#添加评论系统基于LeanCloud
-valine:
+      src: /public/image/ALiPay.png  
+valine: # 添加评论系统基于LeanCloud
   enable: true
   autoloader: /public/js/valine.js
   src: //cdn.jsdelivr.net/npm/valine
