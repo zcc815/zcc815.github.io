@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 努力努力再努力ㄈㄒ
 showtag:
 - ICPC模板
 ---
