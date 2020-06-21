@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 努力努力再努力ㄈㄒ
+title: 晨_窗
 showtag:
 - ICPC模板
 ---
